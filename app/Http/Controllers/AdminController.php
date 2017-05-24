@@ -10,4 +10,9 @@ class AdminController extends Controller
     {
     	return view('admin');
     }
+    
+    public function getAdd()
+    {
+        return view('add');
+    }
 }
