@@ -55,9 +55,6 @@
                 font-size: 12px;
                 font-weight: 600;
                 letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-                color:  #fff;
             }
 
             .m-b-md {
